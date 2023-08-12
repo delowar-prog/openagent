@@ -1,5 +1,0 @@
-{{#user}}
-My name is Delowar.
-Here are my skills : html, css, js , React Js, next.js. 
-My email id is delowarmilton@gmail.com.
- {{/user}}
